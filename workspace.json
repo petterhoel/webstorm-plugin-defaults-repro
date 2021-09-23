@@ -158,7 +158,7 @@
       "linter": "eslint",
       "unitTestRunner": "jest"
     },
-    "@nrwl/angular:component": {
+    "@schematics/angular:component": {
       "style": "scss"
     }
   },
